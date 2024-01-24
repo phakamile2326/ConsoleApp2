@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ConsoleApp2</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Dell-User\Documents\phakamile myende V.B networking\POE non-numeric value error handling.vb" Link="POE non-numeric value error handling.vb" />
+  </ItemGroup>
+
+</Project>
